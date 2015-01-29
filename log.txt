@@ -9,3 +9,7 @@ Tasks: Spent a few hours reading the introductory and intermediate JavaScript th
 Start: Wed, 28 Jan 2015	19:00:00 -0800
 End: Wed, 28 Jan 2015 21:20:58 -0800 
 Tasks: initialized assignment clone and completed first two functions from functions.js
+
+Start: Wed, 28 Jan 2015 22:00:00 -0800
+End: Wed, 28 Jan 2015 23:05:59 -0800 
+Tasks: update variable functions to pass test
