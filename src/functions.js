@@ -44,7 +44,13 @@ var bar = function(doubleArray) {
 	} 
 
 	for (var i = 0; i < arrayLength; i++) {
-		doubleArray[i] = doubleArray[i] * 2;
+		var number = doubleArray[i];
+		
+		if (typeof number !== 'number') {
+			return false;
+		}
+
+		doubleArray[i] = number * 2;
 	}
 
 	return true; 
@@ -85,5 +91,9 @@ function GitLog(hash, date, message) {
 */
 
 //your code here
+
+function parseGit(logArray) {
+
+} 
 
 //end your code

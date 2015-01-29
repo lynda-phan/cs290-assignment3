@@ -6,6 +6,6 @@ Start: Tue, 27 Jan 2015
 End: Tue, 27 Jan 2015 
 Tasks: Spent a few hours reading the introductory and intermediate JavaScript through mozilla developer network. Forgot to log my work.
 
-Start: Wed, 28 Jan 2015
-End: Wed, 28 Jan 2015
-Tasks: Finished implementing first two functions for functions.js
+Start: Wed, 28 Jan 2015	19:00:00 -0800
+End: Wed, 28 Jan 2015 21:20:58 -0800 
+Tasks: initialized assignment clone and completed first two functions from functions.js
