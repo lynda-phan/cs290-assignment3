@@ -19,5 +19,8 @@ End: Wed, 28 Jan 2015 23:33:34 -0800
 Tasks: complete and pass test for parseGit function
 
 
-End: Thu, 29 Jan 2015 21:00:00 -0800 
-Tasks: Research AJAX (syntax, functionality, and usage)
+Start: Thu, 29 Jan 2015 19:00:00 -0800
+End: Thu, 29 Jan 2015 21:41:46 -0800 
+Tasks: research AJAX and update log file
+
+Start: Thu, 29 Jan 2015 21:42:00 -0800
