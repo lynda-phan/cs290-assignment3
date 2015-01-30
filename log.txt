@@ -13,3 +13,11 @@ Tasks: initialized assignment clone and completed first two functions from funct
 Start: Wed, 28 Jan 2015 22:00:00 -0800
 End: Wed, 28 Jan 2015 23:05:59 -0800 
 Tasks: update variable functions to pass test
+
+Start: Wed, 28 Jan 2015 23:07:00 -0800
+End: Wed, 28 Jan 2015 23:33:34 -0800 
+Tasks: complete and pass test for parseGit function
+
+
+End: Thu, 29 Jan 2015 21:00:00 -0800 
+Tasks: Research AJAX (syntax, functionality, and usage)
