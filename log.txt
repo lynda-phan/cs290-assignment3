@@ -27,6 +27,6 @@ Start: Thu, 29 Jan 2015 21:42:00 -0800
 End: Thu, 29 Jan 2015 23:54:58 -0800 
 Tasks: implemented and passed all test for assignment 3 part 1
 
-Start: Sat, 31 Jan 2015 13:00 -0800
-End: Sun, 1 Feb 2015 00:19:14 -0800 
-Tasks: Spent the first three hours rewatching videos and reviewing required reading materials. Created gist object constructor and pulled test data from github and saved it to gist.json file for easy testing 
+Start: Sun, 1 Feb 2015 15:30:00 -0800 
+End: Sun, 1 Feb 2015 21:37:10 -0800 
+Tasks: remove jQuery code to plain JavaScript and complete assignment 3 part 2
